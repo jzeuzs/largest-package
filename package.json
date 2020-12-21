@@ -1,0 +1,32 @@
+{
+        "name": "largest-package",
+        "version": "1.0.0",
+        "description": "the largest package in npm",
+        "main": "index.js",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1",
+                "start": "npx prettier index.js package.json package-lock.json .prettierrc.js --write"
+        },
+        "repository": {
+                "type": "git",
+                "url": "git+https://github.com/1chiSensei/largest-package.git"
+        },
+        "keywords": [
+                "largest",
+                "largest package",
+                "package"
+        ],
+        "author": "1chi",
+        "license": "MIT",
+        "bugs": {
+                "url": "https://github.com/1chiSensei/largest-package/issues"
+        },
+        "homepage": "https://github.com/1chiSensei/largest-package#readme",
+        "dependencies": {
+                "chalk": "^4.1.0",
+                "lodash": "^4.17.20",
+                "react": "^17.0.1",
+                "request": "^2.88.2",
+                "tslib": "^2.0.3"
+        }
+}
