@@ -1,5 +1,10 @@
+axios
 chalk
+commander
+express
 lodash
+moment
 react
+reactDom
 request
 tslib
