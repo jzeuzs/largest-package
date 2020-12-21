@@ -9,4 +9,9 @@ module.exports = {
         reactDom: require('react-dom'),
         request: require('request'),
         tslib: require('tslib'),
+        vueJsModal: require('vue-js-modal'),
+        bootstrap: require('bootstrap'),
+        liveServer: require('live-server'),
+        cropperjs: require('cropperjs'),
+        yo: require('yo'),
 };

@@ -21,3 +21,8 @@ packageName.someFunction();
 * [react-dom](https://npmjs.com/package/react-dom)
 * [request](https://npmjs.com/package/request)
 * [tslib](https://npmjs.com/package/tslib)
+* [vue-js-modal](https://npmjs.com/package/vue-js-modal)
+* [bootstrap](https://npmjs.com/package/bootstrap)
+* [live-server](https://npmjs.com/package/live-server)
+* [cropperjs](https://npmjs.com/package/cropperjs)
+* [yo](https://npmjs.com/package/yo)

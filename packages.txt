@@ -8,3 +8,8 @@ react
 reactDom
 request
 tslib
+bootstrap
+liveServer
+vueJsModal
+cropperjs
+yo
