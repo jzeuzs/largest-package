@@ -1,11 +1,23 @@
+# 5.0.0
+Added typings for every package as a dev dependency.
+
+Added the following packages:
+```
+missionlog
+vueNotification
+juggleResizeObserver
+zui
+shunter
+```
+
 # 4.0.0
 Added the following packages:
 ```
-viewerjs
-local-web-server
 ng-mocks
 @coreui/coreui
 @coreui/coreui-pro
+local-web-server
+viewerjs
 ```
 
 # 3.0.0

@@ -19,4 +19,9 @@ module.exports = {
         coreui: require('@coreui/coreui'),
         localWebServer: require('local-web-server'),
         coreuiPro: require('@coreui/coreui-pro'),
+        missionlog: require('missionlog'),
+        vueNotification: require('vue-notification'),
+        juggleResizeObserver: require('@juggle/resize-observer'),
+        zui: require('zui'),
+        shunter: require('shunter'),
 };

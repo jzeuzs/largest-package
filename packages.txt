@@ -18,3 +18,8 @@ ngMocks
 localWebServer
 viewerjs
 coreuiPro
+missionlog
+vueNotification
+juggleResizeObserver
+zui
+shunter

@@ -31,3 +31,8 @@ packageName.someFunction();
 * [@coreui/coreui](https://npmjs.com/package/@coreui/coreui)
 * [local-web-server](https://npmjs.com/package/local-web-server)
 * [@coreui/coreui-pro](https://npmjs.com/package/@coreui/coreui-pro)
+* [missionlog](https://npmjs.com/package/missionlog)
+* [vue-notification](https://npmjs.com/package/vue-notification)
+* [@juggle/resize-observer](https://npmjs.com/package/@juggle/resize-observer)
+* [zui](https://npmjs.com/package/zui)
+* [shunter](https://npmjs.com/package/shunter)
