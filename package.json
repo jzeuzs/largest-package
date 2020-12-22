@@ -1,6 +1,6 @@
 {
         "name": "largest-package",
-        "version": "3.0.0",
+        "version": "4.0.0",
         "description": "the largest package in npm",
         "main": "index.js",
         "scripts": {
@@ -23,6 +23,8 @@
         },
         "homepage": "https://github.com/1chiSensei/largest-package#readme",
         "dependencies": {
+                "@coreui/coreui": "^3.4.0",
+                "@coreui/coreui-pro": "^3.4.0",
                 "axios": "^0.21.0",
                 "bootstrap": "^4.5.3",
                 "chalk": "^4.1.0",
@@ -30,12 +32,15 @@
                 "cropperjs": "^1.5.9",
                 "express": "^4.17.1",
                 "live-server": "^1.2.1",
+                "local-web-server": "^4.2.1",
                 "lodash": "^4.17.20",
                 "moment": "^2.29.1",
+                "ng-mocks": "^11.2.6",
                 "react": "^17.0.1",
                 "react-dom": "^17.0.1",
                 "request": "^2.88.2",
                 "tslib": "^2.0.3",
+                "viewerjs": "^1.9.0",
                 "vue-js-modal": "^2.0.0-rc.6",
                 "yo": "^3.1.1"
         }

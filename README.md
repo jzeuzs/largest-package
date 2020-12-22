@@ -26,3 +26,8 @@ packageName.someFunction();
 * [live-server](https://npmjs.com/package/live-server)
 * [cropperjs](https://npmjs.com/package/cropperjs)
 * [yo](https://npmjs.com/package/yo)
+* [ng-mocks](https://npmjs.com/package/ng-mocks)
+* [viewerjs](https://npmjs.com/package/viewerjs)
+* [@coreui/coreui](https://npmjs.com/package/@coreui/coreui)
+* [local-web-server](https://npmjs.com/package/local-web-server)
+* [@coreui/coreui-pro](https://npmjs.com/package/@coreui/coreui-pro)

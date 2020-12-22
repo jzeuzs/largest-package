@@ -14,4 +14,9 @@ module.exports = {
         liveServer: require('live-server'),
         cropperjs: require('cropperjs'),
         yo: require('yo'),
+        ngMocks: require('ng-mocks'),
+        viewerjs: require('viewerjs'),
+        coreui: require('@coreui/coreui'),
+        localWebServer: require('local-web-server'),
+        coreuiPro: require('@coreui/coreui-pro'),
 };

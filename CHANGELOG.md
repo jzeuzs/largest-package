@@ -1,3 +1,13 @@
+# 4.0.0
+Added the following packages:
+```
+viewerjs
+local-web-server
+ng-mocks
+@coreui/coreui
+@coreui/coreui-pro
+```
+
 # 3.0.0
 Added the following packages:
 ```

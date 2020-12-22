@@ -13,3 +13,8 @@ liveServer
 vueJsModal
 cropperjs
 yo
+coreui
+ngMocks
+localWebServer
+viewerjs
+coreuiPro
