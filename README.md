@@ -41,3 +41,8 @@ packageName.someFunction();
 * [node-express-mongodb-jwt-rest-api-skeleton](https://npmjs.com/package/node-express-mongodb-jwt-rest-api-skeleton)
 * [react-vapor](https://npmjs.com/package/react-vapor)
 * [metro4](https://npmjs.com/package/metro4)
+* [discord](https://npmjs.com/package/discord)
+* [discord-rpc](https://npmjs.com/package/discord-rpc)
+* [discord.js](https://npmjs.com/package/discord.js)
+* [discord-command-parser](https://npmjs.com/package/discord-command-parser)
+* [discord-webhook-node](https://npmjs.com/package/discord-webhook-node)

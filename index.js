@@ -29,4 +29,9 @@ module.exports = {
         nodeExpressMongodbJwtRestApiSkeleton: require('node-express-mongodb-jwt-rest-api-skeleton'),
         reactVapor: require('react-vapor'),
         metro4: require('metro4'),
+	discord: require('discord'),
+	discordRpc: require('discord-rpc'),
+	discordCommandParser: require('discord-command-parser'),
+	discordJs: require('discord.js'),
+	discordWebhookNode: require('discord-webhook-node')
 };

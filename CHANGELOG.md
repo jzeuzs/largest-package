@@ -1,3 +1,16 @@
+# 7.0.0
+Added typings for the following package:
+```
+discord-rpc
+```
+
+Added the following packages:
+```
+discord
+discord-rpc
+discord.js
+
+
 # 6.0.0
 Added the following packages:
 ```
