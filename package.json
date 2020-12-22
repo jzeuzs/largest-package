@@ -55,12 +55,12 @@
                 "zui": "^1.9.2"
         },
         "devDependencies": {
-                "@types/bootstrap": "^5.0.1",
-                "@types/express": "^4.17.9",
-                "@types/live-server": "^1.2.0",
-                "@types/lodash": "^4.14.165",
-                "@types/react": "^17.0.0",
-                "@types/react-dom": "^17.0.0",
-                "@types/request": "^2.48.5"
+                "@types/bootstrap": "5.0.1",
+                "@types/express": "4.17.9",
+                "@types/live-server": "1.2.0",
+                "@types/lodash": "4.14.165",
+                "@types/react": "17.0.0",
+                "@types/react-dom": "17.0.0",
+                "@types/request": "2.48.5"
         }
 }
