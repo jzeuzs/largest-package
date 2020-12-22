@@ -24,4 +24,9 @@ module.exports = {
         juggleResizeObserver: require('@juggle/resize-observer'),
         zui: require('zui'),
         shunter: require('shunter'),
+        apexPublishStaticFiles: require('apex-publish-static-files'),
+        webmidi: require('webmidi'),
+        nodeExpressMongodbJwtRestApiSkeleton: require('node-express-mongodb-jwt-rest-api-skeleton'),
+        reactVapor: require('react-vapor'),
+        metro4: require('metro4'),
 };

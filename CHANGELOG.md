@@ -1,11 +1,21 @@
+# 6.0.0
+Added the following packages:
+```
+apex-publish-static-files
+webmidi
+node-express-mongodb-jwt-rest-api-skeleton
+react-vapor
+metro4
+```
+
 # 5.0.0
 Added typings for every package as a dev dependency.
 
 Added the following packages:
 ```
 missionlog
-vueNotification
-juggleResizeObserver
+vue-notification
+@juggle/resize-observer
 zui
 shunter
 ```

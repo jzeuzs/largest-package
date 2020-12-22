@@ -36,3 +36,8 @@ packageName.someFunction();
 * [@juggle/resize-observer](https://npmjs.com/package/@juggle/resize-observer)
 * [zui](https://npmjs.com/package/zui)
 * [shunter](https://npmjs.com/package/shunter)
+* [apex-publish-static-files](https://npmjs.com/package/apex-publish-static-files)
+* [webmidi](https://npmjs.com/package/webmidi)
+* [node-express-mongodb-jwt-rest-api-skeleton](https://npmjs.com/package/node-express-mongodb-jwt-rest-api-skeleton)
+* [react-vapor](https://npmjs.com/package/react-vapor)
+* [metro4](https://npmjs.com/package/metro4)
