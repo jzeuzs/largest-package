@@ -89,3 +89,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [lavalink](https://npmjs.com/package/lavalink)
 * [flexilink](https://npmjs.com/package/flexilink)
 * [@dada513/lavacord-tracks](https://npmjs.com/package/@dada513/lavacord-tracks)
+* [ytdl-core](https://npmjs.com/package/ytdl-core)
+* [hashids](https://npmjs.com/package/hashids)
+* [react-player](https://npmjs.com/package/react-player)
+* [youtube](https://npmjs.com/package/youtube)
+* [ytsearcher](https://npmjs.com/package/ytsearcher)

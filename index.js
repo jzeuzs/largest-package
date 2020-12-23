@@ -74,4 +74,9 @@ module.exports = {
         lavalink: require('lavalink'),
         flexilink: require('flexilink'),
         dada513LavacordTracks: require('@dada513/lavacord-tracks'),
+        ytdlCore: require('ytdl-core'),
+        hashids: require('hashids'),
+        reactPlayer: require('react-player'),
+        youtube: require('youtube'),
+        ytsearcher: require('ytsearcher'),
 };

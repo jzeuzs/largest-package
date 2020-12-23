@@ -73,3 +73,8 @@ lavacord
 flexilink
 erelaJs
 dada513LavacordTracks
+youtube
+hashids
+reactPlayer
+ytsearcher
+ytdlCore

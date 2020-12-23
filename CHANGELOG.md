@@ -1,3 +1,13 @@
+# 16.0.0
+Added the following packages:
+```
+ytdl-core
+hashids
+react-player
+youtube
+ytsearcher
+```
+
 # 15.0.0
 Added the following packages:
 ```
