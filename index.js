@@ -54,4 +54,9 @@ module.exports = {
         discordjsOpus: require('@discordjs/opus'),
         opus: require('opus'),
         kurentoJsonrpc: require('kurento-jsonrpc'),
+        knex: require('knex'),
+        sequelize: require('sequelize'),
+        sqlite: require('sqlite'),
+        betterSqlite3: require('better-sqlite3'),
+        sqlite3: require('sqlite3'),
 };

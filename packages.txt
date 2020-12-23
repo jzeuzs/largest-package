@@ -53,3 +53,8 @@ fileType
 prismMedia
 discordjsOpus
 kurentoJsonrpc
+sqlite
+knex
+sequelize
+sqlite3
+betterSqlite3

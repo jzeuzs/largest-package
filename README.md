@@ -69,3 +69,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [@discordjs/opus](https://npmjs.com/package/@discordjs/opus)
 * [opus](https://npmjs.com/package/opus)
 * [kurento-jsonrpc](https://npmjs.com/package/kurento-jsonrpc)
+* [knex](https://npmjs.com/package/knex)
+* [sequelize](https://npmjs.com/package/sequelize)
+* [sqlite](https://npmjs.com/package/sqlite)
+* [better-sqlite3](https://npmjs.com/package/better-sqlite3)
+* [sqlite3](https://npmjs.com/package/sqlite3)

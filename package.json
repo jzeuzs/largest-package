@@ -1,6 +1,6 @@
 {
         "name": "largest-package",
-        "version": "11.0.0",
+        "version": "12.0.0",
         "description": "the largest package in npm",
         "main": "index.js",
         "scripts": {
@@ -33,6 +33,7 @@
                 "aws-sdk": "^2.816.0",
                 "aws4": "^1.11.0",
                 "axios": "^0.21.0",
+                "better-sqlite3": "^7.1.2",
                 "bootstrap": "^4.5.3",
                 "canvas": "^2.6.1",
                 "chalk": "^4.1.0",
@@ -53,6 +54,7 @@
                 "file-type": "^16.1.0",
                 "html2canvas": "^1.0.0-rc.7",
                 "jsbarcode": "^3.11.3",
+                "knex": "^0.21.14",
                 "kurento-jsonrpc": "^6.15.0",
                 "live-server": "^1.2.1",
                 "local-web-server": "^4.2.1",
@@ -68,8 +70,11 @@
                 "react-dom": "^17.0.1",
                 "react-vapor": "^9.20.1",
                 "request": "^2.88.2",
+                "sequelize": "^6.3.5",
                 "serverless": "^2.16.1",
                 "shunter": "^4.13.3",
+                "sqlite": "^4.0.18",
+                "sqlite3": "^5.0.0",
                 "string-progressbar": "^1.0.1",
                 "tslib": "^2.0.3",
                 "viewerjs": "^1.9.0",
@@ -81,6 +86,7 @@
         },
         "devDependencies": {
                 "@types/aws4": "1.5.1",
+                "@types/better-sqlite3": "^5.4.1",
                 "@types/bootstrap": "5.0.1",
                 "@types/chart.js": "2.9.29",
                 "@types/d3": "6.2.0",

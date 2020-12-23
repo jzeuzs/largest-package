@@ -1,3 +1,18 @@
+# 12.0.0
+Added typings for the following package:
+```
+better-sqlite3
+```
+
+Added the following packages:
+```
+sqlite
+knex
+sequelize
+sqlite3
+betterSqlite3
+```
+
 # 11.0.0
 Added the following packages:
 ```
