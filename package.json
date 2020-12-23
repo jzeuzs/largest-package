@@ -86,7 +86,7 @@
         },
         "devDependencies": {
                 "@types/aws4": "1.5.1",
-                "@types/better-sqlite3": "^5.4.1",
+                "@types/better-sqlite3": "5.4.1",
                 "@types/bootstrap": "5.0.1",
                 "@types/chart.js": "2.9.29",
                 "@types/d3": "6.2.0",
