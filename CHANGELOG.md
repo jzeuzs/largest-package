@@ -1,3 +1,13 @@
+# 15.0.0
+Added the following packages:
+```
+lavacord
+erela.js
+lavalink
+flexilink
+@dada513/lavacord-tracks
+```
+
 # 14.0.0
 Added the following packages:
 ```

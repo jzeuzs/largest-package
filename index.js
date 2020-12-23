@@ -69,4 +69,9 @@ module.exports = {
         tsNode: require('ts-node'),
         protobufjs: require('protobufjs'),
         typescript: require('typescript'),
+        lavacord: require('lavacord'),
+        erelaJs: require('erela.js'),
+        lavalink: require('lavalink'),
+        flexilink: require('flexilink'),
+        dada513LavacordTracks: require('@dada513/lavacord-tracks'),
 };

@@ -68,3 +68,8 @@ protobufjs
 tsNode
 reactDocgenTypescript
 jest
+lavalink
+lavacord
+flexilink
+erelaJs
+dada513LavacordTracks

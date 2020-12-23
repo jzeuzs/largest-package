@@ -84,3 +84,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [ts-node](https://npmjs.com/package/ts-node)
 * [protobufjs](https://npmjs.com/package/protobufjs)
 * [typescript](https://npmjs.com/package/typescript)
+* [lavacord](https://npmjs.com/package/lavacord)
+* [erela.js](https://npmjs.com/package/erela.js)
+* [lavalink](https://npmjs.com/package/lavalink)
+* [flexilink](https://npmjs.com/package/flexilink)
+* [@dada513/lavacord-tracks](https://npmjs.com/package/@dada513/lavacord-tracks)
