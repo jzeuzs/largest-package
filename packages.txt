@@ -58,3 +58,8 @@ knex
 sequelize
 sqlite3
 betterSqlite3
+ejs
+mustache
+gulpEjs
+ejsLoader
+ejsLint

@@ -74,3 +74,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [sqlite](https://npmjs.com/package/sqlite)
 * [better-sqlite3](https://npmjs.com/package/better-sqlite3)
 * [sqlite3](https://npmjs.com/package/sqlite3)
+* [ejs](https://npmjs.com/package/ejs)
+* [ejs-lint](https://npmjs.com/package/ejs-lint)
+* [ejs-loader](https://npmjs.com/package/ejs-loader)
+* [gulp-ejs](https://npmjs.com/package/gulp-ejs)
+* [mustache](https://npmjs.com/package/mustache)
