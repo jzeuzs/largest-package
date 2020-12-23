@@ -44,4 +44,9 @@ module.exports = {
         erisBoiler: require('eris-boiler'),
         erisSharder: require('eris-sharder'),
         erisFleet: require('eris-fleet'),
+        canvas: require('canvas'),
+        d3: require('d3'),
+        html2canvas: require('html2canvas'),
+        chartJs: require('chart.js'),
+        jsbarcode: require('jsbarcode'),
 };

@@ -1,3 +1,19 @@
+# 10.0.0
+Added typings for the following packages:
+```
+d3
+chart.js
+```
+
+Added the following packages:
+```
+canvas
+d3
+html2canvas
+chart.js
+jsbarcode
+```
+
 # 9.0.0
 Added the following packages:
 ```

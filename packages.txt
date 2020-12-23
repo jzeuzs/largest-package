@@ -43,3 +43,8 @@ erisSharder
 erisFleet
 stringProgressbar
 erisBoiller
+canvas
+d3
+html2canvas
+chartJs
+jsbarcode

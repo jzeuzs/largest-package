@@ -59,3 +59,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [eris-boiler](https://npmjs.com/package/eris-boiler)
 * [eris-sharder](https://npmjs.com/package/eris-sharder)
 * [eris-fleet](https://npmjs.com/package/eris-fleet)
+* [canvas](https://npmjs.com/package/canvas)
+* [d3](https://npmjs.com/package/d3)
+* [html2canvas](https://npmjs.com/package/html2canvas)
+* [chart.js](https://npmjs.com/package/chart.js)
+* [jsbarcode](https://npmjs.com/package/jsbarcode)
