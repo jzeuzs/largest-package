@@ -39,4 +39,9 @@ module.exports = {
         aws: require('aws'),
         awsSdkMiddlewareLogger: require('@aws-sdk/middleware-logger'),
         awsSdk: require('aws-sdk'),
+        stringProgressbar: require('string-progressbar'),
+        eris: require('eris'),
+        erisBoiler: require('eris-boiler'),
+        erisSharder: require('eris-sharder'),
+        erisFleet: require('eris-fleet'),
 };

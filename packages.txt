@@ -38,3 +38,8 @@ awsSdk
 serverless
 aws4
 awsSdkMiddlewareLogger
+eris
+erisSharder
+erisFleet
+stringProgressbar
+erisBoiller

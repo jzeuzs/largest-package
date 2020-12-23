@@ -10,6 +10,9 @@ const { packageName } = require('largest-package');
 packageName.someFunction();
 ```
 
+# changelog
+see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANGELOG.md)
+
 # packages
 * [axios](https://npmjs.com/package/axios)
 * [chalk](https://npmjs.com/package/chalk)
@@ -51,3 +54,8 @@ packageName.someFunction();
 * [aws](https://npmjs.com/package/aws)
 * [@aws-sdk/middleware-logger](https://npmjs.com/package/@aws-sdk/middleware-logger)
 * [aws-sdk](https://npmjs.com/package/aws-sdk)
+* [string-progressbar](https://npmjs.com/package/string-progressbar)
+* [eris](https://npmjs.com/package/eris)
+* [eris-boiler](https://npmjs.com/package/eris-boiler)
+* [eris-sharder](https://npmjs.com/package/eris-sharder)
+* [eris-fleet](https://npmjs.com/package/eris-fleet)

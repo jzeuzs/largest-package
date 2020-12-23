@@ -1,3 +1,13 @@
+# 9.0.0
+Added the following packages:
+```
+string-progressbar
+eris
+eris-boiler
+eris-sharder
+eris-fleet
+```
+
 # 8.0.0
 Added typings for the following packages:
 ```
