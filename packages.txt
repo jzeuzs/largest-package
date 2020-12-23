@@ -78,3 +78,8 @@ hashids
 reactPlayer
 ytsearcher
 ytdlCore
+doc 
+gruntJsdoc
+docx
+microsoftTsdoc
+swaggerJsdoc
