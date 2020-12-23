@@ -46,3 +46,8 @@ packageName.someFunction();
 * [discord.js](https://npmjs.com/package/discord.js)
 * [discord-command-parser](https://npmjs.com/package/discord-command-parser)
 * [discord-webhook-node](https://npmjs.com/package/discord-webhook-node)
+* [aws4](https://npmjs.com/package/aws4)
+* [serverless](https://npmjs.com/package/serverless)
+* [aws](https://npmjs.com/package/aws)
+* [@aws-sdk/middleware-logger](https://npmjs.com/package/@aws-sdk/middleware-logger)
+* [aws-sdk](https://npmjs.com/package/aws-sdk)

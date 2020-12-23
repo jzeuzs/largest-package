@@ -1,6 +1,6 @@
 {
         "name": "largest-package",
-        "version": "7.0.0",
+        "version": "8.0.0",
         "description": "the largest package in npm",
         "main": "index.js",
         "scripts": {
@@ -23,10 +23,14 @@
         },
         "homepage": "https://github.com/1chiSensei/largest-package#readme",
         "dependencies": {
+                "@aws-sdk/middleware-logger": "^3.0.0",
                 "@coreui/coreui": "^3.4.0",
                 "@coreui/coreui-pro": "^3.4.0",
                 "@juggle/resize-observer": "^3.2.0",
                 "apex-publish-static-files": "^2.0.3",
+                "aws": "0.0.3-2",
+                "aws-sdk": "^2.816.0",
+                "aws4": "^1.11.0",
                 "axios": "^0.21.0",
                 "bootstrap": "^4.5.3",
                 "chalk": "^4.1.0",
@@ -50,6 +54,7 @@
                 "react-dom": "^17.0.1",
                 "react-vapor": "^9.20.1",
                 "request": "^2.88.2",
+                "serverless": "^2.16.1",
                 "shunter": "^4.13.3",
                 "tslib": "^2.0.3",
                 "viewerjs": "^1.9.0",
@@ -60,6 +65,7 @@
                 "zui": "^1.9.2"
         },
         "devDependencies": {
+                "@types/aws4": "^1.5.1",
                 "@types/bootstrap": "5.0.1",
                 "@types/discord-rpc": "^3.0.4",
                 "@types/express": "4.17.9",
@@ -67,6 +73,7 @@
                 "@types/lodash": "4.14.165",
                 "@types/react": "17.0.0",
                 "@types/react-dom": "17.0.0",
-                "@types/request": "2.48.5"
+                "@types/request": "2.48.5",
+                "@types/serverless": "^1.78.16"
         }
 }

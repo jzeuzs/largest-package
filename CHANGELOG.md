@@ -1,3 +1,19 @@
+# 8.0.0
+Added typings for the following packages:
+```
+serverless
+aws4
+```
+
+Added the following packages:
+```
+aws
+aws-sdk
+serverless
+aws4
+@aws-sdk/middleware-logger
+```
+
 # 7.0.0
 Added typings for the following package:
 ```
