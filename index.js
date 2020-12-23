@@ -64,4 +64,9 @@ module.exports = {
         mustache: require('mustache'),
         gulpEjs: require('gulp-ejs'),
         ejsLint: require('ejs-lint'),
+        reactDocgenTypescript: require('react-docgen-typescript'),
+        jest: require('jest'),
+        tsNode: require('ts-node'),
+        protobufjs: require('protobufjs'),
+        typescript: require('typescript'),
 };

@@ -63,3 +63,8 @@ mustache
 gulpEjs
 ejsLoader
 ejsLint
+typescript
+protobufjs
+tsNode
+reactDocgenTypescript
+jest

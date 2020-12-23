@@ -1,3 +1,13 @@
+# 14.0.0
+Added the following packages:
+```
+react-docgen-typescript
+jest
+ts-node
+protobufjs
+typescript
+```
+
 # 13.0.0
 Added typings for the following packages:
 ```

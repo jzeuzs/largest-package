@@ -79,3 +79,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [ejs-loader](https://npmjs.com/package/ejs-loader)
 * [gulp-ejs](https://npmjs.com/package/gulp-ejs)
 * [mustache](https://npmjs.com/package/mustache)
+* [react-docgen-typescript](https://npmjs.com/package/react-docgen-typescript)
+* [jest](https://npmjs.com/package/jest)
+* [ts-node](https://npmjs.com/package/ts-node)
+* [protobufjs](https://npmjs.com/package/protobufjs)
+* [typescript](https://npmjs.com/package/typescript)
