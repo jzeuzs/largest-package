@@ -1,3 +1,19 @@
+# 13.0.0
+Added typings for the following packages:
+```
+ejs
+mustache
+```
+
+Added the following packages:
+```
+ejs
+ejs-loader
+gulp-ejs
+ejs-lint
+mustache
+```
+
 # 12.0.0
 Added typings for the following package:
 ```

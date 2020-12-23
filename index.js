@@ -59,4 +59,9 @@ module.exports = {
         sqlite: require('sqlite'),
         betterSqlite3: require('better-sqlite3'),
         sqlite3: require('sqlite3'),
+        ejs: require('ejs'),
+        ejsLoader: require('ejs-loader'),
+        mustache: require('mustache'),
+        gulpEjs: require('gulp-ejs'),
+        ejsLint: require('ejs-lint'),
 };
