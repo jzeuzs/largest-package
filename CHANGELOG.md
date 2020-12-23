@@ -1,3 +1,13 @@
+# 11.0.0
+Added the following packages:
+```
+prism-media
+file-type
+@discordjs/opus
+opus
+kurento-jsonrpc
+```
+
 # 10.0.0
 Added typings for the following packages:
 ```

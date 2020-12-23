@@ -49,4 +49,9 @@ module.exports = {
         html2canvas: require('html2canvas'),
         chartJs: require('chart.js'),
         jsbarcode: require('jsbarcode'),
+        prismMedia: require('prism-media'),
+        fileType: require('file-type'),
+        discordjsOpus: require('@discordjs/opus'),
+        opus: require('opus'),
+        kurentoJsonrpc: require('kurento-jsonrpc'),
 };

@@ -64,3 +64,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [html2canvas](https://npmjs.com/package/html2canvas)
 * [chart.js](https://npmjs.com/package/chart.js)
 * [jsbarcode](https://npmjs.com/package/jsbarcode)
+* [prism-media](https://npmjs.com/package/prism-media)
+* [file-type](https://npmjs.com/package/file-type)
+* [@discordjs/opus](https://npmjs.com/package/@discordjs/opus)
+* [opus](https://npmjs.com/package/opus)
+* [kurento-jsonrpc](https://npmjs.com/package/kurento-jsonrpc)

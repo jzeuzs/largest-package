@@ -48,3 +48,8 @@ d3
 html2canvas
 chartJs
 jsbarcode
+opus
+fileType
+prismMedia
+discordjsOpus
+kurentoJsonrpc
