@@ -125,6 +125,6 @@
                 "@types/react-dom": "17.0.0",
                 "@types/request": "2.48.5",
                 "@types/serverless": "1.78.16",
-                "@types/swagger-jsdoc": "^3.0.2"
+                "@types/swagger-jsdoc": "3.0.2"
         }
 }
