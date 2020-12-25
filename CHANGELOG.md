@@ -1,3 +1,20 @@
+# 19.0.0
+Added our own typings!
+
+Added typings for the following packages:
+```
+bindings
+```
+
+Added the following packages:
+```
+prebuild-install
+bindings
+nan 
+node-gyp
+node-addon-api
+```
+
 # 18.0.0
 Added typings for the following package:
 ```

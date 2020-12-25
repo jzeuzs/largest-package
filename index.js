@@ -89,4 +89,9 @@ module.exports = {
         process: require('process'),
         crossSpawn: require('cross-spawn'),
         pm2: require('pm2'),
+        prebuildInstall: require('prebuild-install'),
+        bindings: require('bindings'),
+        nan: require('nan'),
+        nodeGyp: require('node-gyp'),
+        nodeAddonApi: require('node-addon-api'),
 };

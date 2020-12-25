@@ -88,3 +88,8 @@ execa
 open
 crossSpawn
 pm2
+nodeGyp
+nan
+prebuildInstall
+bindings
+nodeAddonApi

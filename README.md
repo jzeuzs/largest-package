@@ -104,3 +104,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [process](https://npmjs.com/package/process)
 * [cross-spawn](https://npmjs.com/package/cross-spawn)
 * [pm2](https://npmjs.com/package/pm2)
+* [prebuild-install](https://npmjs.com/package/prebuild-install)
+* [bindings](https://npmjs.com/package/bindings)
+* [nan](https://npmjs.com/package/nan)
+* [node-gyp](https://npmjs.com/package/node-gyp)
+* [node-addon-api](https://npmjs.com/package/node-addon-api)
