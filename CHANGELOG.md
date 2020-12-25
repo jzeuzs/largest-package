@@ -1,3 +1,18 @@
+# 18.0.0
+Added typings for the following package:
+```
+cross-spawn
+```
+
+Added the following packages:
+```
+execa
+open
+process
+cross-spawn
+pm2
+```
+
 # 17.0.0
 Added typings for the following package:
 ```

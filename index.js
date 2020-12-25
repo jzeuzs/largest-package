@@ -84,4 +84,9 @@ module.exports = {
         docx: require('docx'),
         microsoftTsdoc: require('@microsoft/tsdoc'),
         doc: require('doc'),
+        execa: require('execa'),
+        open: require('open'),
+        process: require('process'),
+        crossSpawn: require('cross-spawn'),
+        pm2: require('pm2'),
 };

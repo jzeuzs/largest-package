@@ -83,3 +83,8 @@ gruntJsdoc
 docx
 microsoftTsdoc
 swaggerJsdoc
+process
+execa
+open
+crossSpawn
+pm2
