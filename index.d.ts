@@ -93,3 +93,8 @@ export declare const bindings: any;
 export declare const nan: any;
 export declare const nodeGyp: any;
 export declare const nodeAddonApi: any;
+export declare const dbdJs: any;
+export declare const discordbotScript: any;
+export declare const bdfdScript: any;
+export declare const bdlJs: any;
+export declare const discordGodJs: any;

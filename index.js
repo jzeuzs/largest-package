@@ -94,4 +94,9 @@ module.exports = {
         nan: require('nan'),
         nodeGyp: require('node-gyp'),
         nodeAddonApi: require('node-addon-api'),
+        dbdJs: require('dbd.js'),
+        discordbotScript: require('discordbot-script'),
+        bdfdScript: require('bdfd-script'),
+        bdlJs: require('bdl.js'),
+        discordGodJs: require('discord-god.js'),
 };

@@ -109,3 +109,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [nan](https://npmjs.com/package/nan)
 * [node-gyp](https://npmjs.com/package/node-gyp)
 * [node-addon-api](https://npmjs.com/package/node-addon-api)
+* [dbd.js](https://npmjs.com/package/dbd.js)
+* [discordbot-script](https://npmjs.com/package/discordbot-script)
+* [bdfd-script](https://npmjs.com/package/bdfd-script)
+* [bdl.js](https://npmjs.com/package/bdl.js)
+* [discord-god.js](https://npmjs.com/package/discord-god.js)

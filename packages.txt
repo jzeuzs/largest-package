@@ -93,3 +93,8 @@ nan
 prebuildInstall
 bindings
 nodeAddonApi
+bdlJs
+dbdJs
+discordbotScript
+discordGodJs
+bdfdScript
