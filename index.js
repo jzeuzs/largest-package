@@ -79,4 +79,9 @@ module.exports = {
         reactPlayer: require('react-player'),
         youtube: require('youtube'),
         ytsearcher: require('ytsearcher'),
+        gruntJsdoc: require('grunt-jsdoc'),
+        swaggerJsdoc: require('swagger-jsdoc'),
+        docx: require('docx'),
+        microsoftTsdoc: require('@microsoft/tsdoc'),
+        doc: require('doc'),
 };

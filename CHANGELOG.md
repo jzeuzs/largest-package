@@ -1,3 +1,18 @@
+# 17.0.0
+Added typings for the following package:
+```
+swagger-jsdoc
+```
+
+Added the following packages:
+```
+doc 
+grunt-jsdoc
+docx
+@microsoft/tsdoc
+swagger-jsdoc
+```
+
 # 16.0.0
 Added the following packages:
 ```
