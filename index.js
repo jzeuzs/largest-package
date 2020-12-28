@@ -99,4 +99,9 @@ module.exports = {
         bdfdScript: require('bdfd-script'),
         bdlJs: require('bdl.js'),
         discordGodJs: require('discord-god.js'),
+        node: require('node'),
+        resolve: require('resolve'),
+        superagent: require('superagent'),
+        nodeSass: require('node-sass'),
+        NODE: require('NODE'),
 };

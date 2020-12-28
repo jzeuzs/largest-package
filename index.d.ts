@@ -98,3 +98,8 @@ export declare const discordbotScript: any;
 export declare const bdfdScript: any;
 export declare const bdlJs: any;
 export declare const discordGodJs: any;
+export declare const node: any;
+export declare const resolve: any;
+export declare const superagent: any;
+export declare const nodeSass: any;
+export declare const NODE: any;

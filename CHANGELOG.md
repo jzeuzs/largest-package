@@ -1,3 +1,21 @@
+# 21.0.0
+Added typings for the following packages:
+```
+node
+resolve
+superagent
+node-sass
+```
+
+Added the following packages:
+```
+node
+resolve
+superagent
+node-sass
+NODE 
+```
+
 # 20.0.0
 Added the following packages:
 ```

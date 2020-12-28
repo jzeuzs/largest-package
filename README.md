@@ -1,4 +1,11 @@
 # largest-package
+[![https://nodei.co/npm/largest-package.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/largest-package.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/largest-package)
+
+[![Node version](https://img.shields.io/node/v/largest-package.svg?style=flat)](https://nodejs.org/download/)
+
+[![Dependencies](https://david-dm.org/1chiSensei/largest-package.svg)](https://david-dm.org/1chiSensei/largest-package.svg)
+
+# about
 the largest package in npm
 
 # example
@@ -114,3 +121,8 @@ see [CHANGELOG.md](https://github.com/1chiSensei/largest-package/blob/main/CHANG
 * [bdfd-script](https://npmjs.com/package/bdfd-script)
 * [bdl.js](https://npmjs.com/package/bdl.js)
 * [discord-god.js](https://npmjs.com/package/discord-god.js)
+* [node](https://npmjs.com/package/node)
+* [resolve](https://npmjs.com/package/resolve)
+* [superagent](https://npmjs.com/package/superagent)
+* [node-sass](https://npmjs.com/package/node-sass)
+* [NODE](https://npmjs.com/package/NODE)
