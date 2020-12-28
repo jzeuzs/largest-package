@@ -1,3 +1,13 @@
+# 20.0.0
+Added the following packages:
+```
+dbd.js
+discordbot-script
+bdfd-script
+bdl.js
+discord-god.js
+```
+
 # 19.0.0
 Added our own typings!
 
