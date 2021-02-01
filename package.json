@@ -140,7 +140,7 @@
                 "@types/bootstrap": "5.0.5",
                 "@types/chart.js": "2.9.29",
                 "@types/cross-spawn": "6.0.2",
-                "@types/d3": "6.2.0",
+                "@types/d3": "6.3.0",
                 "@types/discord-rpc": "3.0.4",
                 "@types/ejs": "3.0.5",
                 "@types/express": "4.17.11",
