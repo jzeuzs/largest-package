@@ -52,7 +52,7 @@
                 "cropperjs": "^1.5.9",
                 "cross-spawn": "^7.0.3",
                 "d3": "^6.3.1",
-                "dbd.js": "^1.0.1",
+                "dbd.js": "^2.0.0",
                 "discord": "^0.8.2",
                 "discord-command-parser": "^1.5.3",
                 "discord-god.js": "^7.6.9",
