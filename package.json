@@ -98,7 +98,7 @@
                 "node-express-mongodb-jwt-rest-api-skeleton": "^9.0.2",
                 "node-gyp": "^7.1.2",
                 "node-sass": "^5.0.0",
-                "open": "^7.3.0",
+                "open": "^8.0.0",
                 "opus": "0.0.0",
                 "pm2": "^4.5.1",
                 "prebuild-install": "^6.0.0",
