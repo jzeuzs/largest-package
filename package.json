@@ -61,7 +61,7 @@
                 "discord.js": "^12.5.1",
                 "discordbot-script": "^2.0.5",
                 "doc": "0.0.3",
-                "docx": "^5.4.1",
+                "docx": "^6.0.0",
                 "ejs": "^3.1.5",
                 "ejs-lint": "^1.1.0",
                 "ejs-loader": "^0.5.0",
