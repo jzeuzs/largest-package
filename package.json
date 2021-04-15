@@ -33,7 +33,7 @@
                 "@dada513/lavacord-tracks": "^1.0.0",
                 "@discordjs/opus": "^0.4.0",
                 "@juggle/resize-observer": "^3.2.0",
-                "@microsoft/tsdoc": "^0.12.24",
+                "@microsoft/tsdoc": "^0.13.0",
                 "NODE": "0.0.0",
                 "apex-publish-static-files": "^2.0.3",
                 "aws": "0.0.3-2",
