@@ -141,7 +141,7 @@
                 "@types/chart.js": "2.9.29",
                 "@types/cross-spawn": "6.0.2",
                 "@types/d3": "6.3.0",
-                "@types/discord-rpc": "3.0.4",
+                "@types/discord-rpc": "3.0.6",
                 "@types/ejs": "3.0.5",
                 "@types/express": "4.17.11",
                 "@types/live-server": "1.2.0",
