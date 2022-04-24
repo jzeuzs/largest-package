@@ -152,7 +152,7 @@
                 "@types/react": "17.0.0",
                 "@types/react-dom": "17.0.0",
                 "@types/request": "2.48.5",
-                "@types/resolve": "1.17.1",
+                "@types/resolve": "1.20.2",
                 "@types/serverless": "1.78.20",
                 "@types/superagent": "4.1.10",
                 "@types/swagger-jsdoc": "6.0.0"
